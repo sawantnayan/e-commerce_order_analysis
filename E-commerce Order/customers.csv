@@ -1,0 +1,851 @@
+customer_id,customer_city,customer_state
+CUS00001,Curitiba,BA
+CUS00002,Rio de Janeiro,RJ
+CUS00003,Belo Horizonte,MG
+CUS00004,Belo Horizonte,RS
+CUS00005,Belo Horizonte,RS
+CUS00006,Sao Paulo,SP
+CUS00007,Goiania,BA
+CUS00008,Porto Alegre,RJ
+CUS00009,Goiania,PR
+CUS00010,Goiania,SC
+CUS00011,Rio de Janeiro,PE
+CUS00012,Rio de Janeiro,MG
+CUS00013,Sao Paulo,BA
+CUS00014,Belo Horizonte,SP
+CUS00015,Curitiba,SC
+CUS00016,Goiania,GO
+CUS00017,Salvador,MG
+CUS00018,Salvador,PE
+CUS00019,Salvador,RS
+CUS00020,Curitiba,PR
+CUS00021,Brasilia,RS
+CUS00022,Sao Paulo,RJ
+CUS00023,Sao Paulo,DF
+CUS00024,Belo Horizonte,SP
+CUS00025,Salvador,MG
+CUS00026,Salvador,BA
+CUS00027,Goiania,MG
+CUS00028,Florianopolis,SP
+CUS00029,Rio de Janeiro,PR
+CUS00030,Belo Horizonte,BA
+CUS00031,Florianopolis,PE
+CUS00032,Sao Paulo,SP
+CUS00033,Recife,SP
+CUS00034,Sao Paulo,PE
+CUS00035,Goiania,GO
+CUS00036,Recife,PE
+CUS00037,Rio de Janeiro,BA
+CUS00038,Florianopolis,RJ
+CUS00039,Brasilia,GO
+CUS00040,Florianopolis,PR
+CUS00041,Goiania,SP
+CUS00042,Sao Paulo,PR
+CUS00043,Curitiba,RJ
+CUS00044,Curitiba,SC
+CUS00045,Florianopolis,SC
+CUS00046,Florianopolis,RS
+CUS00047,Belo Horizonte,PR
+CUS00048,Brasilia,SC
+CUS00049,Florianopolis,SC
+CUS00050,Curitiba,SP
+CUS00051,Porto Alegre,BA
+CUS00052,Porto Alegre,BA
+CUS00053,Porto Alegre,RS
+CUS00054,Rio de Janeiro,MG
+CUS00055,Salvador,PR
+CUS00056,Brasilia,RS
+CUS00057,Belo Horizonte,PE
+CUS00058,Goiania,BA
+CUS00059,Sao Paulo,DF
+CUS00060,Sao Paulo,PR
+CUS00061,Goiania,RJ
+CUS00062,Goiania,PR
+CUS00063,Goiania,PE
+CUS00064,Recife,SC
+CUS00065,Florianopolis,RS
+CUS00066,Recife,SC
+CUS00067,Curitiba,SP
+CUS00068,Sao Paulo,MG
+CUS00069,Curitiba,PE
+CUS00070,Salvador,BA
+CUS00071,Goiania,PR
+CUS00072,Recife,DF
+CUS00073,Florianopolis,BA
+CUS00074,Porto Alegre,MG
+CUS00075,Belo Horizonte,RS
+CUS00076,Rio de Janeiro,MG
+CUS00077,Belo Horizonte,BA
+CUS00078,Salvador,PR
+CUS00079,Brasilia,SC
+CUS00080,Goiania,SP
+CUS00081,Belo Horizonte,SP
+CUS00082,Salvador,SC
+CUS00083,Recife,PR
+CUS00084,Salvador,SP
+CUS00085,Porto Alegre,RS
+CUS00086,Brasilia,DF
+CUS00087,Goiania,PE
+CUS00088,Belo Horizonte,BA
+CUS00089,Recife,GO
+CUS00090,Florianopolis,BA
+CUS00091,Salvador,RJ
+CUS00092,Recife,PR
+CUS00093,Brasilia,PE
+CUS00094,Salvador,BA
+CUS00095,Brasilia,SC
+CUS00096,Sao Paulo,PE
+CUS00097,Goiania,MG
+CUS00098,Porto Alegre,PR
+CUS00099,Belo Horizonte,SP
+CUS00100,Goiania,GO
+CUS00101,Sao Paulo,PR
+CUS00102,Recife,PR
+CUS00103,Curitiba,RS
+CUS00104,Porto Alegre,DF
+CUS00105,Rio de Janeiro,RS
+CUS00106,Sao Paulo,BA
+CUS00107,Goiania,RJ
+CUS00108,Salvador,PR
+CUS00109,Recife,RS
+CUS00110,Curitiba,GO
+CUS00111,Florianopolis,GO
+CUS00112,Brasilia,BA
+CUS00113,Porto Alegre,PE
+CUS00114,Salvador,GO
+CUS00115,Belo Horizonte,PR
+CUS00116,Florianopolis,PE
+CUS00117,Salvador,PR
+CUS00118,Porto Alegre,RJ
+CUS00119,Recife,PR
+CUS00120,Recife,RJ
+CUS00121,Recife,PR
+CUS00122,Curitiba,RS
+CUS00123,Brasilia,MG
+CUS00124,Recife,GO
+CUS00125,Belo Horizonte,SP
+CUS00126,Curitiba,RJ
+CUS00127,Porto Alegre,PR
+CUS00128,Belo Horizonte,BA
+CUS00129,Florianopolis,SC
+CUS00130,Curitiba,PR
+CUS00131,Sao Paulo,MG
+CUS00132,Brasilia,SP
+CUS00133,Florianopolis,RJ
+CUS00134,Salvador,MG
+CUS00135,Brasilia,SC
+CUS00136,Brasilia,MG
+CUS00137,Goiania,SP
+CUS00138,Goiania,RJ
+CUS00139,Porto Alegre,PR
+CUS00140,Rio de Janeiro,DF
+CUS00141,Salvador,DF
+CUS00142,Florianopolis,PE
+CUS00143,Brasilia,RJ
+CUS00144,Florianopolis,BA
+CUS00145,Brasilia,RJ
+CUS00146,Goiania,RS
+CUS00147,Rio de Janeiro,SP
+CUS00148,Goiania,RJ
+CUS00149,Porto Alegre,GO
+CUS00150,Belo Horizonte,PR
+CUS00151,Goiania,GO
+CUS00152,Recife,GO
+CUS00153,Goiania,GO
+CUS00154,Goiania,GO
+CUS00155,Salvador,RS
+CUS00156,Sao Paulo,PE
+CUS00157,Belo Horizonte,SC
+CUS00158,Rio de Janeiro,RJ
+CUS00159,Sao Paulo,BA
+CUS00160,Sao Paulo,RS
+CUS00161,Florianopolis,MG
+CUS00162,Porto Alegre,RS
+CUS00163,Porto Alegre,RJ
+CUS00164,Goiania,PE
+CUS00165,Salvador,RS
+CUS00166,Brasilia,MG
+CUS00167,Goiania,MG
+CUS00168,Rio de Janeiro,GO
+CUS00169,Curitiba,PE
+CUS00170,Salvador,RS
+CUS00171,Porto Alegre,SC
+CUS00172,Rio de Janeiro,PE
+CUS00173,Salvador,RJ
+CUS00174,Porto Alegre,DF
+CUS00175,Sao Paulo,PR
+CUS00176,Salvador,SP
+CUS00177,Florianopolis,GO
+CUS00178,Sao Paulo,RS
+CUS00179,Brasilia,RJ
+CUS00180,Florianopolis,PR
+CUS00181,Curitiba,DF
+CUS00182,Rio de Janeiro,MG
+CUS00183,Florianopolis,MG
+CUS00184,Rio de Janeiro,PR
+CUS00185,Goiania,SP
+CUS00186,Curitiba,GO
+CUS00187,Goiania,RS
+CUS00188,Brasilia,SC
+CUS00189,Curitiba,MG
+CUS00190,Belo Horizonte,PR
+CUS00191,Sao Paulo,DF
+CUS00192,Brasilia,SC
+CUS00193,Sao Paulo,SP
+CUS00194,Porto Alegre,MG
+CUS00195,Salvador,PR
+CUS00196,Sao Paulo,BA
+CUS00197,Belo Horizonte,BA
+CUS00198,Sao Paulo,MG
+CUS00199,Porto Alegre,DF
+CUS00200,Sao Paulo,MG
+CUS00201,Salvador,SC
+CUS00202,Sao Paulo,RJ
+CUS00203,Rio de Janeiro,SC
+CUS00204,Salvador,RS
+CUS00205,Brasilia,DF
+CUS00206,Salvador,DF
+CUS00207,Recife,RJ
+CUS00208,Brasilia,MG
+CUS00209,Curitiba,RJ
+CUS00210,Salvador,SC
+CUS00211,Florianopolis,GO
+CUS00212,Porto Alegre,SP
+CUS00213,Sao Paulo,GO
+CUS00214,Florianopolis,BA
+CUS00215,Salvador,SC
+CUS00216,Sao Paulo,BA
+CUS00217,Rio de Janeiro,PR
+CUS00218,Salvador,DF
+CUS00219,Brasilia,GO
+CUS00220,Florianopolis,DF
+CUS00221,Rio de Janeiro,RJ
+CUS00222,Florianopolis,GO
+CUS00223,Brasilia,MG
+CUS00224,Brasilia,MG
+CUS00225,Brasilia,DF
+CUS00226,Goiania,SP
+CUS00227,Recife,RJ
+CUS00228,Recife,SP
+CUS00229,Belo Horizonte,SC
+CUS00230,Brasilia,PE
+CUS00231,Florianopolis,SP
+CUS00232,Porto Alegre,SP
+CUS00233,Goiania,DF
+CUS00234,Goiania,PR
+CUS00235,Sao Paulo,RS
+CUS00236,Curitiba,MG
+CUS00237,Recife,BA
+CUS00238,Recife,RS
+CUS00239,Florianopolis,PR
+CUS00240,Salvador,PR
+CUS00241,Porto Alegre,PE
+CUS00242,Brasilia,DF
+CUS00243,Sao Paulo,MG
+CUS00244,Brasilia,MG
+CUS00245,Belo Horizonte,RS
+CUS00246,Florianopolis,SP
+CUS00247,Recife,RS
+CUS00248,Rio de Janeiro,DF
+CUS00249,Porto Alegre,GO
+CUS00250,Rio de Janeiro,RJ
+CUS00251,Sao Paulo,BA
+CUS00252,Salvador,RJ
+CUS00253,Florianopolis,GO
+CUS00254,Porto Alegre,BA
+CUS00255,Rio de Janeiro,BA
+CUS00256,Salvador,RJ
+CUS00257,Rio de Janeiro,RS
+CUS00258,Recife,SP
+CUS00259,Brasilia,SC
+CUS00260,Curitiba,SC
+CUS00261,Sao Paulo,RS
+CUS00262,Recife,RS
+CUS00263,Brasilia,DF
+CUS00264,Salvador,SC
+CUS00265,Florianopolis,RJ
+CUS00266,Florianopolis,DF
+CUS00267,Salvador,DF
+CUS00268,Salvador,MG
+CUS00269,Goiania,RS
+CUS00270,Florianopolis,SP
+CUS00271,Porto Alegre,MG
+CUS00272,Florianopolis,SC
+CUS00273,Porto Alegre,GO
+CUS00274,Sao Paulo,PE
+CUS00275,Brasilia,PR
+CUS00276,Florianopolis,RS
+CUS00277,Goiania,SP
+CUS00278,Florianopolis,PE
+CUS00279,Rio de Janeiro,RJ
+CUS00280,Curitiba,GO
+CUS00281,Curitiba,PR
+CUS00282,Salvador,GO
+CUS00283,Salvador,SP
+CUS00284,Recife,RJ
+CUS00285,Sao Paulo,SC
+CUS00286,Goiania,RJ
+CUS00287,Florianopolis,MG
+CUS00288,Sao Paulo,PE
+CUS00289,Salvador,RS
+CUS00290,Curitiba,SC
+CUS00291,Salvador,BA
+CUS00292,Recife,SP
+CUS00293,Rio de Janeiro,GO
+CUS00294,Sao Paulo,RS
+CUS00295,Curitiba,PR
+CUS00296,Brasilia,PR
+CUS00297,Porto Alegre,MG
+CUS00298,Rio de Janeiro,DF
+CUS00299,Recife,DF
+CUS00300,Rio de Janeiro,PE
+CUS00301,Belo Horizonte,SP
+CUS00302,Belo Horizonte,RS
+CUS00303,Curitiba,PR
+CUS00304,Recife,SP
+CUS00305,Salvador,MG
+CUS00306,Porto Alegre,PR
+CUS00307,Belo Horizonte,MG
+CUS00308,Florianopolis,MG
+CUS00309,Rio de Janeiro,SC
+CUS00310,Recife,RJ
+CUS00311,Sao Paulo,PE
+CUS00312,Sao Paulo,MG
+CUS00313,Salvador,MG
+CUS00314,Goiania,MG
+CUS00315,Salvador,BA
+CUS00316,Recife,SP
+CUS00317,Goiania,DF
+CUS00318,Porto Alegre,PR
+CUS00319,Recife,GO
+CUS00320,Salvador,PE
+CUS00321,Goiania,RS
+CUS00322,Curitiba,PE
+CUS00323,Rio de Janeiro,PE
+CUS00324,Florianopolis,GO
+CUS00325,Brasilia,GO
+CUS00326,Sao Paulo,DF
+CUS00327,Salvador,PR
+CUS00328,Brasilia,MG
+CUS00329,Recife,MG
+CUS00330,Sao Paulo,RS
+CUS00331,Curitiba,RS
+CUS00332,Rio de Janeiro,DF
+CUS00333,Brasilia,PR
+CUS00334,Sao Paulo,GO
+CUS00335,Belo Horizonte,DF
+CUS00336,Sao Paulo,BA
+CUS00337,Curitiba,SP
+CUS00338,Sao Paulo,PE
+CUS00339,Rio de Janeiro,PE
+CUS00340,Salvador,GO
+CUS00341,Rio de Janeiro,PE
+CUS00342,Belo Horizonte,SP
+CUS00343,Curitiba,BA
+CUS00344,Curitiba,DF
+CUS00345,Belo Horizonte,PR
+CUS00346,Recife,SP
+CUS00347,Rio de Janeiro,PE
+CUS00348,Salvador,RJ
+CUS00349,Goiania,PE
+CUS00350,Salvador,BA
+CUS00351,Porto Alegre,PR
+CUS00352,Rio de Janeiro,PE
+CUS00353,Recife,MG
+CUS00354,Brasilia,PE
+CUS00355,Belo Horizonte,SP
+CUS00356,Belo Horizonte,MG
+CUS00357,Recife,GO
+CUS00358,Brasilia,MG
+CUS00359,Recife,SP
+CUS00360,Goiania,SC
+CUS00361,Brasilia,PE
+CUS00362,Rio de Janeiro,PE
+CUS00363,Porto Alegre,SP
+CUS00364,Goiania,RS
+CUS00365,Curitiba,SP
+CUS00366,Curitiba,GO
+CUS00367,Salvador,RJ
+CUS00368,Belo Horizonte,SP
+CUS00369,Sao Paulo,BA
+CUS00370,Sao Paulo,SP
+CUS00371,Goiania,SP
+CUS00372,Curitiba,MG
+CUS00373,Goiania,PR
+CUS00374,Florianopolis,RS
+CUS00375,Rio de Janeiro,PE
+CUS00376,Florianopolis,PE
+CUS00377,Curitiba,RJ
+CUS00378,Sao Paulo,SC
+CUS00379,Rio de Janeiro,SP
+CUS00380,Rio de Janeiro,MG
+CUS00381,Recife,MG
+CUS00382,Porto Alegre,GO
+CUS00383,Goiania,SC
+CUS00384,Curitiba,SP
+CUS00385,Brasilia,DF
+CUS00386,Salvador,PE
+CUS00387,Porto Alegre,SP
+CUS00388,Goiania,MG
+CUS00389,Rio de Janeiro,GO
+CUS00390,Rio de Janeiro,SP
+CUS00391,Porto Alegre,SC
+CUS00392,Salvador,RS
+CUS00393,Sao Paulo,SC
+CUS00394,Curitiba,DF
+CUS00395,Recife,PE
+CUS00396,Porto Alegre,BA
+CUS00397,Curitiba,BA
+CUS00398,Sao Paulo,PR
+CUS00399,Florianopolis,BA
+CUS00400,Sao Paulo,RJ
+CUS00401,Florianopolis,PE
+CUS00402,Belo Horizonte,RJ
+CUS00403,Recife,MG
+CUS00404,Brasilia,PR
+CUS00405,Sao Paulo,PR
+CUS00406,Recife,BA
+CUS00407,Sao Paulo,MG
+CUS00408,Brasilia,RS
+CUS00409,Sao Paulo,PR
+CUS00410,Sao Paulo,PR
+CUS00411,Florianopolis,RS
+CUS00412,Curitiba,SP
+CUS00413,Recife,GO
+CUS00414,Porto Alegre,DF
+CUS00415,Goiania,SC
+CUS00416,Rio de Janeiro,RJ
+CUS00417,Recife,RJ
+CUS00418,Sao Paulo,RS
+CUS00419,Florianopolis,DF
+CUS00420,Curitiba,PE
+CUS00421,Belo Horizonte,SC
+CUS00422,Goiania,PE
+CUS00423,Goiania,SP
+CUS00424,Rio de Janeiro,DF
+CUS00425,Sao Paulo,GO
+CUS00426,Brasilia,PE
+CUS00427,Brasilia,PE
+CUS00428,Brasilia,SC
+CUS00429,Salvador,SP
+CUS00430,Goiania,SC
+CUS00431,Sao Paulo,PE
+CUS00432,Recife,PE
+CUS00433,Sao Paulo,RJ
+CUS00434,Sao Paulo,PR
+CUS00435,Recife,PE
+CUS00436,Florianopolis,BA
+CUS00437,Rio de Janeiro,MG
+CUS00438,Recife,RS
+CUS00439,Rio de Janeiro,PR
+CUS00440,Recife,DF
+CUS00441,Belo Horizonte,PR
+CUS00442,Curitiba,DF
+CUS00443,Porto Alegre,BA
+CUS00444,Goiania,PR
+CUS00445,Salvador,BA
+CUS00446,Brasilia,RS
+CUS00447,Porto Alegre,RJ
+CUS00448,Porto Alegre,PE
+CUS00449,Salvador,MG
+CUS00450,Sao Paulo,PR
+CUS00451,Curitiba,MG
+CUS00452,Salvador,GO
+CUS00453,Recife,GO
+CUS00454,Porto Alegre,PE
+CUS00455,Curitiba,RS
+CUS00456,Goiania,SC
+CUS00457,Rio de Janeiro,RS
+CUS00458,Goiania,RJ
+CUS00459,Salvador,PR
+CUS00460,Goiania,SC
+CUS00461,Florianopolis,PR
+CUS00462,Salvador,PE
+CUS00463,Porto Alegre,DF
+CUS00464,Brasilia,PE
+CUS00465,Florianopolis,PE
+CUS00466,Curitiba,PE
+CUS00467,Rio de Janeiro,PR
+CUS00468,Belo Horizonte,SP
+CUS00469,Sao Paulo,PE
+CUS00470,Florianopolis,PR
+CUS00471,Curitiba,MG
+CUS00472,Sao Paulo,MG
+CUS00473,Goiania,DF
+CUS00474,Rio de Janeiro,DF
+CUS00475,Sao Paulo,BA
+CUS00476,Recife,SP
+CUS00477,Curitiba,PE
+CUS00478,Porto Alegre,BA
+CUS00479,Goiania,RJ
+CUS00480,Rio de Janeiro,MG
+CUS00481,Brasilia,MG
+CUS00482,Florianopolis,BA
+CUS00483,Curitiba,RS
+CUS00484,Sao Paulo,RJ
+CUS00485,Sao Paulo,BA
+CUS00486,Goiania,RS
+CUS00487,Porto Alegre,DF
+CUS00488,Recife,MG
+CUS00489,Goiania,SP
+CUS00490,Porto Alegre,BA
+CUS00491,Recife,PR
+CUS00492,Brasilia,PE
+CUS00493,Curitiba,MG
+CUS00494,Goiania,GO
+CUS00495,Recife,SP
+CUS00496,Brasilia,RJ
+CUS00497,Belo Horizonte,PE
+CUS00498,Recife,PE
+CUS00499,Florianopolis,DF
+CUS00500,Brasilia,RS
+CUS00501,Sao Paulo,PE
+CUS00502,Belo Horizonte,PE
+CUS00503,Salvador,PR
+CUS00504,Curitiba,RS
+CUS00505,Brasilia,SC
+CUS00506,Porto Alegre,PR
+CUS00507,Sao Paulo,PR
+CUS00508,Recife,SC
+CUS00509,Belo Horizonte,SC
+CUS00510,Porto Alegre,BA
+CUS00511,Florianopolis,RJ
+CUS00512,Recife,DF
+CUS00513,Goiania,DF
+CUS00514,Florianopolis,PE
+CUS00515,Florianopolis,RJ
+CUS00516,Sao Paulo,DF
+CUS00517,Salvador,SP
+CUS00518,Sao Paulo,RJ
+CUS00519,Sao Paulo,GO
+CUS00520,Porto Alegre,DF
+CUS00521,Brasilia,DF
+CUS00522,Florianopolis,RS
+CUS00523,Porto Alegre,RJ
+CUS00524,Brasilia,PE
+CUS00525,Florianopolis,BA
+CUS00526,Salvador,PE
+CUS00527,Goiania,SP
+CUS00528,Belo Horizonte,SP
+CUS00529,Porto Alegre,DF
+CUS00530,Brasilia,MG
+CUS00531,Florianopolis,MG
+CUS00532,Florianopolis,BA
+CUS00533,Porto Alegre,RS
+CUS00534,Rio de Janeiro,DF
+CUS00535,Rio de Janeiro,RS
+CUS00536,Porto Alegre,BA
+CUS00537,Brasilia,PE
+CUS00538,Sao Paulo,RJ
+CUS00539,Salvador,SC
+CUS00540,Goiania,PE
+CUS00541,Belo Horizonte,RJ
+CUS00542,Recife,RJ
+CUS00543,Curitiba,RJ
+CUS00544,Goiania,GO
+CUS00545,Recife,SP
+CUS00546,Sao Paulo,SC
+CUS00547,Goiania,SC
+CUS00548,Rio de Janeiro,SP
+CUS00549,Florianopolis,MG
+CUS00550,Brasilia,RS
+CUS00551,Florianopolis,RS
+CUS00552,Curitiba,SC
+CUS00553,Florianopolis,PE
+CUS00554,Brasilia,SP
+CUS00555,Recife,RS
+CUS00556,Sao Paulo,SC
+CUS00557,Recife,RJ
+CUS00558,Brasilia,PR
+CUS00559,Florianopolis,BA
+CUS00560,Salvador,SP
+CUS00561,Rio de Janeiro,SP
+CUS00562,Brasilia,SC
+CUS00563,Curitiba,RS
+CUS00564,Curitiba,SP
+CUS00565,Florianopolis,SC
+CUS00566,Brasilia,SC
+CUS00567,Sao Paulo,GO
+CUS00568,Curitiba,SC
+CUS00569,Salvador,SC
+CUS00570,Belo Horizonte,PR
+CUS00571,Goiania,PR
+CUS00572,Salvador,BA
+CUS00573,Belo Horizonte,SC
+CUS00574,Belo Horizonte,RS
+CUS00575,Belo Horizonte,RJ
+CUS00576,Belo Horizonte,SC
+CUS00577,Goiania,PE
+CUS00578,Florianopolis,DF
+CUS00579,Recife,PE
+CUS00580,Curitiba,RJ
+CUS00581,Brasilia,MG
+CUS00582,Florianopolis,MG
+CUS00583,Sao Paulo,SP
+CUS00584,Florianopolis,PR
+CUS00585,Porto Alegre,GO
+CUS00586,Porto Alegre,RJ
+CUS00587,Brasilia,BA
+CUS00588,Rio de Janeiro,SC
+CUS00589,Florianopolis,BA
+CUS00590,Curitiba,BA
+CUS00591,Recife,BA
+CUS00592,Sao Paulo,PE
+CUS00593,Rio de Janeiro,RJ
+CUS00594,Porto Alegre,DF
+CUS00595,Salvador,BA
+CUS00596,Porto Alegre,SC
+CUS00597,Florianopolis,SC
+CUS00598,Florianopolis,RS
+CUS00599,Brasilia,SP
+CUS00600,Florianopolis,RS
+CUS00601,Sao Paulo,SC
+CUS00602,Sao Paulo,RS
+CUS00603,Sao Paulo,SC
+CUS00604,Sao Paulo,SC
+CUS00605,Florianopolis,BA
+CUS00606,Salvador,MG
+CUS00607,Sao Paulo,GO
+CUS00608,Sao Paulo,SP
+CUS00609,Porto Alegre,SC
+CUS00610,Belo Horizonte,DF
+CUS00611,Rio de Janeiro,SP
+CUS00612,Salvador,DF
+CUS00613,Curitiba,DF
+CUS00614,Goiania,MG
+CUS00615,Brasilia,PR
+CUS00616,Sao Paulo,PR
+CUS00617,Goiania,SP
+CUS00618,Goiania,PE
+CUS00619,Brasilia,SC
+CUS00620,Brasilia,BA
+CUS00621,Goiania,BA
+CUS00622,Rio de Janeiro,SC
+CUS00623,Sao Paulo,RS
+CUS00624,Salvador,RS
+CUS00625,Rio de Janeiro,PR
+CUS00626,Rio de Janeiro,PE
+CUS00627,Belo Horizonte,PR
+CUS00628,Belo Horizonte,GO
+CUS00629,Goiania,SP
+CUS00630,Porto Alegre,BA
+CUS00631,Salvador,GO
+CUS00632,Rio de Janeiro,SP
+CUS00633,Recife,RS
+CUS00634,Goiania,GO
+CUS00635,Florianopolis,MG
+CUS00636,Sao Paulo,RS
+CUS00637,Recife,BA
+CUS00638,Recife,PR
+CUS00639,Goiania,RJ
+CUS00640,Porto Alegre,SP
+CUS00641,Porto Alegre,SC
+CUS00642,Florianopolis,SC
+CUS00643,Salvador,GO
+CUS00644,Recife,SC
+CUS00645,Recife,DF
+CUS00646,Porto Alegre,PR
+CUS00647,Curitiba,PR
+CUS00648,Porto Alegre,PR
+CUS00649,Rio de Janeiro,PR
+CUS00650,Recife,BA
+CUS00651,Salvador,PE
+CUS00652,Porto Alegre,RS
+CUS00653,Porto Alegre,RJ
+CUS00654,Curitiba,BA
+CUS00655,Sao Paulo,RS
+CUS00656,Belo Horizonte,PE
+CUS00657,Rio de Janeiro,SP
+CUS00658,Porto Alegre,RS
+CUS00659,Porto Alegre,SC
+CUS00660,Porto Alegre,MG
+CUS00661,Brasilia,MG
+CUS00662,Porto Alegre,DF
+CUS00663,Rio de Janeiro,BA
+CUS00664,Brasilia,GO
+CUS00665,Brasilia,SC
+CUS00666,Rio de Janeiro,GO
+CUS00667,Brasilia,BA
+CUS00668,Rio de Janeiro,PE
+CUS00669,Goiania,BA
+CUS00670,Rio de Janeiro,MG
+CUS00671,Porto Alegre,BA
+CUS00672,Florianopolis,RJ
+CUS00673,Sao Paulo,DF
+CUS00674,Curitiba,RS
+CUS00675,Sao Paulo,SC
+CUS00676,Recife,RS
+CUS00677,Sao Paulo,RJ
+CUS00678,Rio de Janeiro,BA
+CUS00679,Recife,MG
+CUS00680,Porto Alegre,SP
+CUS00681,Porto Alegre,SP
+CUS00682,Belo Horizonte,PR
+CUS00683,Recife,MG
+CUS00684,Florianopolis,RS
+CUS00685,Salvador,SP
+CUS00686,Recife,GO
+CUS00687,Salvador,SP
+CUS00688,Salvador,GO
+CUS00689,Porto Alegre,DF
+CUS00690,Curitiba,PR
+CUS00691,Salvador,MG
+CUS00692,Belo Horizonte,RJ
+CUS00693,Florianopolis,RJ
+CUS00694,Belo Horizonte,RS
+CUS00695,Porto Alegre,PE
+CUS00696,Florianopolis,PE
+CUS00697,Recife,GO
+CUS00698,Sao Paulo,SC
+CUS00699,Porto Alegre,PE
+CUS00700,Recife,GO
+CUS00701,Recife,MG
+CUS00702,Recife,SP
+CUS00703,Florianopolis,SC
+CUS00704,Belo Horizonte,BA
+CUS00705,Brasilia,PE
+CUS00706,Belo Horizonte,RS
+CUS00707,Curitiba,SP
+CUS00708,Brasilia,PE
+CUS00709,Florianopolis,DF
+CUS00710,Brasilia,SC
+CUS00711,Recife,PE
+CUS00712,Porto Alegre,GO
+CUS00713,Goiania,GO
+CUS00714,Salvador,PR
+CUS00715,Porto Alegre,GO
+CUS00716,Brasilia,PE
+CUS00717,Porto Alegre,RS
+CUS00718,Sao Paulo,SC
+CUS00719,Rio de Janeiro,PE
+CUS00720,Sao Paulo,DF
+CUS00721,Curitiba,RJ
+CUS00722,Rio de Janeiro,RJ
+CUS00723,Brasilia,PE
+CUS00724,Salvador,MG
+CUS00725,Salvador,MG
+CUS00726,Recife,PR
+CUS00727,Rio de Janeiro,SC
+CUS00728,Recife,MG
+CUS00729,Recife,RS
+CUS00730,Belo Horizonte,RS
+CUS00731,Brasilia,BA
+CUS00732,Belo Horizonte,MG
+CUS00733,Florianopolis,SC
+CUS00734,Florianopolis,MG
+CUS00735,Florianopolis,GO
+CUS00736,Rio de Janeiro,RS
+CUS00737,Florianopolis,BA
+CUS00738,Sao Paulo,GO
+CUS00739,Porto Alegre,MG
+CUS00740,Curitiba,GO
+CUS00741,Sao Paulo,SP
+CUS00742,Florianopolis,RS
+CUS00743,Sao Paulo,PR
+CUS00744,Florianopolis,SC
+CUS00745,Rio de Janeiro,RS
+CUS00746,Goiania,RS
+CUS00747,Florianopolis,GO
+CUS00748,Belo Horizonte,MG
+CUS00749,Salvador,SP
+CUS00750,Belo Horizonte,PR
+CUS00751,Goiania,SC
+CUS00752,Brasilia,MG
+CUS00753,Sao Paulo,RJ
+CUS00754,Salvador,GO
+CUS00755,Recife,BA
+CUS00756,Salvador,PE
+CUS00757,Recife,SC
+CUS00758,Porto Alegre,SC
+CUS00759,Sao Paulo,SC
+CUS00760,Florianopolis,MG
+CUS00761,Porto Alegre,SP
+CUS00762,Goiania,BA
+CUS00763,Curitiba,PE
+CUS00764,Rio de Janeiro,RJ
+CUS00765,Curitiba,GO
+CUS00766,Sao Paulo,SP
+CUS00767,Curitiba,DF
+CUS00768,Belo Horizonte,SC
+CUS00769,Recife,GO
+CUS00770,Salvador,BA
+CUS00771,Curitiba,PE
+CUS00772,Sao Paulo,SC
+CUS00773,Salvador,GO
+CUS00774,Brasilia,PR
+CUS00775,Curitiba,SP
+CUS00776,Belo Horizonte,SC
+CUS00777,Porto Alegre,GO
+CUS00778,Goiania,RJ
+CUS00779,Rio de Janeiro,BA
+CUS00780,Florianopolis,PR
+CUS00781,Porto Alegre,MG
+CUS00782,Curitiba,BA
+CUS00783,Curitiba,SP
+CUS00784,Brasilia,RS
+CUS00785,Porto Alegre,SP
+CUS00786,Curitiba,SP
+CUS00787,Goiania,RS
+CUS00788,Sao Paulo,RS
+CUS00789,Sao Paulo,SC
+CUS00790,Belo Horizonte,RJ
+CUS00791,Salvador,GO
+CUS00792,Belo Horizonte,PR
+CUS00793,Porto Alegre,PE
+CUS00794,Recife,PE
+CUS00795,Florianopolis,SC
+CUS00796,Goiania,PR
+CUS00797,Florianopolis,RS
+CUS00798,Belo Horizonte,MG
+CUS00799,Goiania,SC
+CUS00800,Rio de Janeiro,RJ
+CUS00801,Sao Paulo,GO
+CUS00802,Rio de Janeiro,DF
+CUS00803,Curitiba,BA
+CUS00804,Brasilia,DF
+CUS00805,Porto Alegre,PE
+CUS00806,Belo Horizonte,RS
+CUS00807,Porto Alegre,GO
+CUS00808,Porto Alegre,DF
+CUS00809,Porto Alegre,PE
+CUS00810,Recife,PR
+CUS00811,Salvador,PR
+CUS00812,Porto Alegre,GO
+CUS00813,Rio de Janeiro,RJ
+CUS00814,Rio de Janeiro,DF
+CUS00815,Rio de Janeiro,PE
+CUS00816,Recife,SC
+CUS00817,Goiania,PR
+CUS00818,Rio de Janeiro,DF
+CUS00819,Porto Alegre,RS
+CUS00820,Recife,PE
+CUS00821,Florianopolis,DF
+CUS00822,Salvador,PR
+CUS00823,Florianopolis,MG
+CUS00824,Porto Alegre,MG
+CUS00825,Belo Horizonte,SC
+CUS00826,Brasilia,PE
+CUS00827,Sao Paulo,BA
+CUS00828,Belo Horizonte,SP
+CUS00829,Sao Paulo,RS
+CUS00830,Rio de Janeiro,PR
+CUS00831,Brasilia,RJ
+CUS00832,Salvador,GO
+CUS00833,Porto Alegre,PE
+CUS00834,Brasilia,DF
+CUS00835,Recife,MG
+CUS00836,Goiania,GO
+CUS00837,Recife,BA
+CUS00838,Recife,GO
+CUS00839,Brasilia,RS
+CUS00840,Florianopolis,RJ
+CUS00841,Porto Alegre,BA
+CUS00842,Curitiba,RS
+CUS00843,Rio de Janeiro,SP
+CUS00844,Rio de Janeiro,SP
+CUS00845,Porto Alegre,BA
+CUS00846,Belo Horizonte,GO
+CUS00847,Brasilia,PR
+CUS00848,Curitiba,PE
+CUS00849,Curitiba,SC
+CUS00850,Rio de Janeiro,PE
